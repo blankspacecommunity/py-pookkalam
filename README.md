@@ -12,12 +12,16 @@ Py-Pookkalam is your digital gateway to celebrating Onam in a unique way. Onam, 
 
 2. **Design Your Athapookkalam**: Head to the `example` folder, where you'll find `main.py`. This Python script is your canvas to craft your virtual Athapookkalam using code. Let your creativity bloom as you design patterns reminiscent of traditional floral art.
    Here is an example output (main.py):
+   
 <p align="center">
  <img src="https://github.com/blankspace-community/py-pookkalam/blob/main/Example/example.jpeg" alt="image" width="50%">
 </p>
+
 3. **Submission Options**: Once you've perfected your Athapookkalam masterpiece, you have two exciting options:
-   - **Pull Request**: Submit your creation by sending a pull request. Show off your coding skills and the beauty of Kerala's culture to the world! [create a separate folder with your full name]
+   - **Pull Request**: Submit your creation by sending a pull request. Show off your coding skills and the beauty of Kerala's culture to the world!
+      - *Create a separate folder with your full name and save the python code along with the screenshot of the output* 
    - **Google Form**: Alternatively, you can submit your design using the Google Form link provided. We can't wait to see the kaleidoscope of designs you come up with.
+      - [Submit via google form](https://forms.gle/VcL3JiUP32ZHS9tX8)
 
 ### Let's Celebrate Onam Together!
 
