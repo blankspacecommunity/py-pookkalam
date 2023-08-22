@@ -15,6 +15,7 @@ Py-Pookkalam is your digital gateway to celebrating Onam in a unique way. Onam, 
    
 <p align="center">
  <img src="https://github.com/blankspace-community/py-pookkalam/blob/main/Example/example.jpeg" alt="image" width="50%">
+    <img src="https://github.com/blankspace-community/py-pookkalam/blob/main/Example/example-animated.gif" alt="image" width="50%">
 </p>
 
 3. **Submission Options**: Once you've perfected your Athapookkalam masterpiece, you have two exciting options:
