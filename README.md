@@ -19,9 +19,9 @@ Py-Pookkalam is your digital gateway to celebrating Onam in a unique way. Onam, 
 </p>
 
 3. **Submission Options**: Once you've perfected your Athapookkalam masterpiece, you have two exciting options:
-   - **Pull Request**: Submit your creation by sending a pull request. Show off your coding skills and the beauty of Kerala's culture to the world!
+   - **Pull Request**: Submit your creation by sending a pull request.
       - *Create a separate folder with your full name and save the python code along with the screenshot of the output* 
-   - **Google Form**: Alternatively, you can submit your design using the Google Form link provided. We can't wait to see the kaleidoscope of designs you come up with.
+   - **Google Form**: Alternatively, you can submit your design using the Google Form link provided.
       - [Submit via google form](https://forms.gle/VcL3JiUP32ZHS9tX8)
 
 ### Let's Celebrate Onam Together!
