@@ -8,26 +8,24 @@ screen.title("Pookkalam Design")
 # Create a turtle
 t = turtle.Turtle()
 t.speed(10)
-t.penup()
-t.color("white")
 
 # Draw the circle 1
+t.penup()
 t.goto(0, -200)
-t.pendown()
 t.begin_fill()
 t.fillcolor("#d31f4b")
 t.circle(200)
+t.pendown()
 t.end_fill()
 
 # Draw the circle 2
+t.penup()
 t.goto(0, -190)
-t.pendown()
 t.begin_fill()
 t.fillcolor("#fb5902")
 t.circle(190)
+t.pendown()
 t.end_fill()
-
-
 
 # Draw filled triangles around a circle
 
