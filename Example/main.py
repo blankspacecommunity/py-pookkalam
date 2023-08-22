@@ -43,13 +43,40 @@ t.fillcolor("yellow")
 t.circle(70)
 t.end_fill()
 
-# Draw the circle 5
-t.goto(0, -20)
+# Draw filled triangles around a circle
+radius = 20
+num_triangles = 12
+square_side_length = 50
+t.fillcolor("red")
+
+t.penup()
+t.goto(0, 110)
 t.pendown()
 t.begin_fill()
-t.fillcolor("red")
-t.circle(20)
+
+# turn pen to 45 degree
+t.left(45)
+
+for _ in range(4):
+    t.forward(square_side_length)  # Move the turtle forward by side_length units
+    t.left(90)  # Turn left by 90 degrees
+
 t.end_fill()
+
+# Draw the triangles
+for _ in range(num_triangles):
+    t.penup()
+    t.goto(0, 0)
+    t.pendown()
+    t.begin_fill()
+    
+    for _ in range(3):
+        t.forward(radius * 2)  # Each side of the equilateral triangle
+        t.left(120)  # Turn 120 degrees
+
+    t.end_fill()
+    t.left(360 / num_triangles)
+
 
 # Hide the turtle
 t.hideturtle()
